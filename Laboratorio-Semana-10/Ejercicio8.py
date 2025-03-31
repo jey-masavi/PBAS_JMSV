@@ -1,0 +1,2 @@
+# Ejercicio 8: Implementación de Mergesort.
+"""Descripción: Este programa implementa el algoritmo de Mergesort para ordenar una lista de números ingresada por el usuario, además, muestra la lista antes y después del ordenamiento."""
