@@ -18,14 +18,14 @@ def calcular_estadisticas(*args):
     
     return promedio(args), mediana, desviacion_estandar
 
-# Solicitamos al usuario ingresar los números
+# Solicitar al usuario ingresar los números
 entrada = input("Introduce una lista de números separados por comas: ")
 numeros = list(map(float, entrada.split(',')))
 
-# Llamamos a la función con los números proporcionados
+# Llamar a la función con los números proporcionados
 promedio, mediana, desviacion_estandar = calcular_estadisticas(*numeros)
 
-# Mostramos los resultados
+# Mostrar los resultados
 print(f"Promedio: {promedio}")
 print(f"Mediana: {mediana}")
 print(f"Desviación estándar: {desviacion_estandar}")
