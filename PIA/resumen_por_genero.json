@@ -1,0 +1,72 @@
+[
+  {
+    "género": "rock",
+    "cantidad_artistas": 24,
+    "popularidad_media": 58.21,
+    "popularidad_máxima": 90,
+    "popularidad_mínima": 30
+  },
+  {
+    "género": "Otros",
+    "cantidad_artistas": 167,
+    "popularidad_media": 58.59,
+    "popularidad_máxima": 98,
+    "popularidad_mínima": 20
+  },
+  {
+    "género": "indie",
+    "cantidad_artistas": 28,
+    "popularidad_media": 56.57,
+    "popularidad_máxima": 88,
+    "popularidad_mínima": 28
+  },
+  {
+    "género": "pop",
+    "cantidad_artistas": 103,
+    "popularidad_media": 65.71,
+    "popularidad_máxima": 95,
+    "popularidad_mínima": 22
+  },
+  {
+    "género": "electronic",
+    "cantidad_artistas": 5,
+    "popularidad_media": 63.0,
+    "popularidad_máxima": 83,
+    "popularidad_mínima": 36
+  },
+  {
+    "género": "hip hop",
+    "cantidad_artistas": 29,
+    "popularidad_media": 66.1,
+    "popularidad_máxima": 98,
+    "popularidad_mínima": 21
+  },
+  {
+    "género": "reggaeton",
+    "cantidad_artistas": 59,
+    "popularidad_media": 64.81,
+    "popularidad_máxima": 100,
+    "popularidad_mínima": 32
+  },
+  {
+    "género": "r&b",
+    "cantidad_artistas": 4,
+    "popularidad_media": 55.5,
+    "popularidad_máxima": 94,
+    "popularidad_mínima": 30
+  },
+  {
+    "género": "jazz",
+    "cantidad_artistas": 39,
+    "popularidad_media": 54.05,
+    "popularidad_máxima": 73,
+    "popularidad_mínima": 11
+  },
+  {
+    "género": "classical",
+    "cantidad_artistas": 53,
+    "popularidad_media": 57.6,
+    "popularidad_máxima": 80,
+    "popularidad_mínima": 33
+  }
+]

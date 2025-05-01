@@ -1,0 +1,11 @@
+género,cantidad_artistas,popularidad_media,popularidad_máxima,popularidad_mínima
+rock,24,58.21,90,30
+Otros,167,58.59,98,20
+indie,28,56.57,88,28
+pop,103,65.71,95,22
+electronic,5,63.0,83,36
+hip hop,29,66.1,98,21
+reggaeton,59,64.81,100,32
+r&b,4,55.5,94,30
+jazz,39,54.05,73,11
+classical,53,57.6,80,33
