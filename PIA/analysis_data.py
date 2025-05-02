@@ -79,7 +79,7 @@ def analizar_artistas(artistas):
     popularidades = [a['popularity'] for a in artistas]
     seguidores = [a['followers'] for a in artistas]
 
-    print("\n-----Estadísticas de Popularidad:")
+    print("\n----- Estadísticas de Popularidad: -----")
     print(f"Media: {mean(popularidades):.2f}")
     print(f"Mediana: {median(popularidades)}")
     try:
@@ -88,7 +88,7 @@ def analizar_artistas(artistas):
         print("Moda: No única")
     print(f"Desviación estándar: {stdev(popularidades):.2f}")
 
-    print("\n-----Estadísticas de Seguidores:")
+    print("\n----- Estadísticas de Seguidores: -----")
     print(f"Media: {mean(seguidores):,.0f}")
     print(f"Mediana: {median(seguidores):,.0f}")
     try:
@@ -143,7 +143,7 @@ def main():
     analizar_artistas(artistas)
     resumen_genero = preparar_datos_visualizacion(artistas)
 
-    print("\n-----Resumen por género:-----")
+    print("\n----- Resumen por género: -----")
     for r in resumen_genero:
         print(f"- {r['género'].title()}: {r}")
 
